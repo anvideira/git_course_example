@@ -1,4 +1,4 @@
-import os
+import os2
 import sys
 
-print(sys.version_info)
+print(sys.version)
