@@ -1,2 +1,2 @@
 # git_course_example
-Rumos - Git course example project
+Git Rumos Course - Git course example project
